@@ -1,0 +1,14 @@
+.color-picker {
+    display: flex;
+}
+.card {
+    display: flex;
+    min-width: 35%;
+    box-shadow: 2px 0 10px rgba(0,0,0,.5);
+    min-height: 50px;
+}
+
+.color-picker .preview-color {
+    width: 100%;
+    height:100%;
+}
